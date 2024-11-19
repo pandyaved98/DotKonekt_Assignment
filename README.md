@@ -85,7 +85,11 @@ The system encompasses:
 ### 4.1 High-Level Design
 ![System_Design_DK](https://github.com/user-attachments/assets/e47892f4-75e1-41d3-9f51-bad15d1e37d3)
 
-### 4.2 Component Interactions
+### 4.2 Detailed Architecture
+![RAG_Arch_DK](https://github.com/user-attachments/assets/50f9e8cb-976a-411a-b818-d7c771443d5a)
+
+
+### 4.3 Component Interactions
 1. **PDF Processing Flow**
    ```
    Upload → Extraction → Chunking → Embedding → Storage
