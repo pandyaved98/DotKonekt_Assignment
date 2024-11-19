@@ -82,10 +82,10 @@ The system encompasses:
 
 ## 4. Architecture Overview
 
-### 4.1 High-Level Design
+### 4.1 High-Level System Design
 ![System_Design_DK](https://github.com/user-attachments/assets/e47892f4-75e1-41d3-9f51-bad15d1e37d3)
 
-### 4.2 Detailed Architecture
+### 4.2 Detailed Solution Architecture
 ![RAG_Arch_DK](https://github.com/user-attachments/assets/50f9e8cb-976a-411a-b818-d7c771443d5a)
 
 
