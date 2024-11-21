@@ -1,0 +1,21 @@
+# requirements.txt
+flask
+flask-cors
+pymongo
+redis
+opensearch-py
+PyPDF2
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+transformers
+accelerate
+torch
+sentence-transformers
+beautifulsoup4
+requests
+PyJWT
+werkzeug
+einops
+bitsandbytes
