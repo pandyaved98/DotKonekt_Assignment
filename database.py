@@ -149,7 +149,7 @@ def initialize_vector_store():
             embedding_function=embeddings,
             http_auth=(
                 os.getenv('OPENSEARCH_USER', 'admin'),
-                os.getenv('OPENSEARCH_PASSWORD', 'Ved%40nt%40981204')
+                os.getenv('OPENSEARCH_PASSWORD', '')
             ),
             use_ssl=True,
             verify_certs=False,
